@@ -285,11 +285,11 @@ MES College Marampally, MG University (2019 – 2022)
 
 📧 **Email:** ameeshama14@gmail.com
 
-💼 **LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+💼 **LinkedIn:** https://linkedin.com/in/ameesha-m-a-734b0b247
 
 🌐 **Portfolio:** https://YOUR_PORTFOLIO_URL
 
-💻 **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
+💻 **GitHub:** https://github.com/Ameesha-MA/Ameesha-MA.git
 
 ---
 
