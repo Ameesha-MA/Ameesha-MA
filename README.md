@@ -1,156 +1,174 @@
 # Hi there, I'm Ameesha M A 👋
 
-🚀 Passionate Python Full Stack Developer with hands-on experience building modern, scalable web applications using Django and React.
+### 🚀 Python Full Stack Developer
 
-🎓 Python Full Stack Developer (Django + React)
+I'm a passionate **Python Full Stack Developer** who enjoys building scalable and user-friendly web applications using **Django** and **React**. I love learning new technologies, solving real-world problems, and developing applications that create meaningful user experiences.
 
-💡 Passionate about solving real-world problems through clean, efficient code.
-
-🌱 Currently learning advanced backend development, cloud deployment, and system design.
+🌱 Currently expanding my knowledge in **Cloud Deployment, System Design, and Modern Web Technologies.**
 
 ---
 
-## 💻 Tech Stack
+## 👩‍💻 About Me
+
+- 💻 Python Full Stack Developer
+- 🎓 BVoc in Instrumentation, MG University
+- 📚 Completed Python Full Stack Development Training at Avodha
+- 🔍 Passionate about Backend Development and REST APIs
+- 🚀 Interested in Full Stack Development, Cloud, and Real-Time Applications
+- 🤝 Always eager to learn and collaborate on exciting projects
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
+
 - Python
 - JavaScript
-- HTML5
-- CSS3
 
 ### Backend
+
 - Django
-- Django REST Framework
-- JWT Authentication
+- Django REST Framework (DRF)
+- Django Channels
 - REST APIs
+- WebSockets
+- JWT Authentication
 
 ### Frontend
+
 - React.js
 - Redux Toolkit
+- HTML5
+- CSS3
 - Bootstrap
-- Tailwind CSS
 
 ### Database
+
 - PostgreSQL
-- SQLite
+- MongoDB
 
 ### Cloud & Deployment
+
 - AWS EC2
-- Nginx
-- Gunicorn
-- Daphne
-- Redis
-- WebSockets
 
 ### Tools
+
 - Git
 - GitHub
-- VS Code
 - Postman
+- VS Code
 - Figma
 - Canva
+
+### Concepts
+
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- RESTful API Design
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏋️ Gym Fitness Management System
+## 🏋️ FITHUB – Gym Management System
 
-A complete gym management platform with separate Admin, Trainer, and Member dashboards.
+A full-stack gym management platform designed to streamline fitness center operations.
 
-### Features
+### Key Features
 
-- Membership Management
-- Online Payment Integration
-- Workout Plans
-- Diet Plans
-- Attendance Tracking
-- Trainer Management
-- Chat System
-- Notifications
-- WebSocket Real-time Messaging
-- AWS Deployment
+- 👨‍💼 Admin Dashboard
+- 💪 Trainer Dashboard
+- 👤 Member Dashboard
+- 📅 Membership Management
+- 🥗 Personalized Diet Plans
+- 🏋️ Workout Plans
+- 💬 Real-Time Chat
+- 📢 Live Notifications
+- 💳 Razorpay Subscription Payments
+- 📈 Attendance Tracking
 
-**Tech Stack**
+### Tech Stack
 
 - Django
 - Django REST Framework
+- Django Channels
 - React
 - Redux Toolkit
 - PostgreSQL
 - AWS EC2
-- Redis
-- Django Channels
+- WebSockets
 
 ---
 
-## 🛒 E-Commerce Website
+## 🛒 Ashion E-Commerce Platform
 
-Modern e-commerce application with secure authentication and payment integration.
+A modern e-commerce platform built with Django.
 
 ### Features
 
-- User Authentication
-- Product Search
+- Secure User Authentication
+- Product Management
 - Shopping Cart
-- Wishlist
-- Checkout
+- Wallet System
 - Order Management
-- Razorpay Payment Gateway
+- PayPal Payment Integration
+- Admin Dashboard
+- Responsive Design
 
-**Tech Stack**
+### Tech Stack
 
 - Django
-- React
 - PostgreSQL
-- Redux Toolkit
+- AWS EC2
+- PayPal
 
 ---
 
-## 💼 Office Administration Experience
+## 📚 Education
 
-Worked as an Office Administrator managing:
+🎓 **Python Full Stack Development**
 
-- Documentation
-- Reports
-- Data Entry
-- MS Office
-- Daily Operations
-- Inventory Records
+Avodha (2025 – 2026)
 
----
+🎓 **BVoc Instrumentation**
 
-# 📚 Currently Learning
-
-- Docker
-- CI/CD
-- System Design
-- Microservices
-- AI Integration
+MES College Marampally, MG University (2019 – 2022)
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
----
-
-# 🤝 Connect with Me
-
-📧 Email: yourmail@gmail.com
-
-💼 LinkedIn:
-https://linkedin.com/in/yourprofile
-
-🌐 Portfolio:
-https://yourportfolio.com
-
-💻 GitHub:
-https://github.com/YOUR_USERNAME
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🛠 Languages & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,django,react,redux,javascript,html,css,bootstrap,postgres,mongodb,git,github,aws,postman,vscode,figma" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** ameeshama14@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+
+🌐 **Portfolio:** https://YOUR_PORTFOLIO_URL
+
+💻 **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
+
+---
+
+## 💡 Quote
+
+> *"Code. Learn. Build. Improve. Repeat."*
+
+⭐ Thank you for visiting my GitHub profile!
