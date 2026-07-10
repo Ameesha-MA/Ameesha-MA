@@ -4,7 +4,7 @@
 
 I'm a passionate **Python Full Stack Developer** who enjoys building scalable and user-friendly web applications using **Django** and **React**. I love learning new technologies, solving real-world problems, and developing applications that create meaningful user experiences.
 
-🌱 Currently expanding my knowledge in **Cloud Deployment, System Design, and Modern Web Technologies.**
+🌱 Passionate about developing scalable full-stack applications, exploring modern technologies, and continuously improving my software development skills.
 
 ---
 
@@ -19,41 +19,61 @@ I'm a passionate **Python Full Stack Developer** who enjoys building scalable an
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
-
+### 💻 Languages
 - Python
 - JavaScript
+- HTML5
+- CSS3
 
-### Backend
+---
 
+### ⚙️ Backend
 - Django
 - Django REST Framework (DRF)
 - Django Channels
-- REST APIs
-- WebSockets
+- RESTful APIs
 - JWT Authentication
+- WebSockets
+- Real-time Chat
+- Razorpay Payment Integration
 
-### Frontend
+---
 
+### 🎨 Frontend
 - React.js
 - Redux Toolkit
+- Bootstrap
 - HTML5
 - CSS3
-- Bootstrap
 
-### Database
+---
 
+### 🗄️ Database
 - PostgreSQL
 - MongoDB
+- SQLite
 
-### Cloud & Deployment
+---
 
+### ☁️ Cloud & Deployment
 - AWS EC2
+- Nginx
+- Gunicorn
+- Daphne
+- AWS Deployment
 
-### Tools
+---
 
+### ⚡ Caching & Real-Time
+- Redis
+- Django Channels
+- WebSockets
+
+---
+
+### 🛠️ Tools
 - Git
 - GitHub
 - Postman
@@ -61,11 +81,16 @@ I'm a passionate **Python Full Stack Developer** who enjoys building scalable an
 - Figma
 - Canva
 
-### Concepts
+---
 
+### 📚 Core Concepts
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
 - RESTful API Design
+- Authentication & Authorization (JWT)
+- State Management (Redux Toolkit)
+- Real-Time Communication
+- Responsive Web Design
 
 ---
 
@@ -73,55 +98,165 @@ I'm a passionate **Python Full Stack Developer** who enjoys building scalable an
 
 ## 🏋️ FITHUB – Gym Management System
 
-A full-stack gym management platform designed to streamline fitness center operations.
+A full-stack gym management platform designed to streamline fitness center operations by providing dedicated dashboards for admin, trainers, and members. The platform enables seamless membership management, personalized fitness guidance, secure online payments, and real-time communication.
 
-### Key Features
+### ✨ Key Features
 
-- 👨‍💼 Admin Dashboard
-- 💪 Trainer Dashboard
-- 👤 Member Dashboard
-- 📅 Membership Management
-- 🥗 Personalized Diet Plans
-- 🏋️ Workout Plans
-- 💬 Real-Time Chat
-- 📢 Live Notifications
-- 💳 Razorpay Subscription Payments
-- 📈 Attendance Tracking
+#### 👨‍💼 Admin Module
+- Admin Dashboard
+- Member Management
+- Trainer Management
+- Membership Plan Management
+- Membership Upgrade & Renewal
+- Payment Management
+- Attendance Monitoring
+- Dashboard Analytics
+- User Role Management
 
-### Tech Stack
+#### 💪 Trainer Module
+- Trainer Dashboard
+- Create & Manage Workout Plans
+- Create Personalized Diet Plans
+- Track Member Progress
+- Attendance Management
+- Real-Time Chat with Members
+- Member Profile Management
 
-- Django
-- Django REST Framework
-- Django Channels
-- React
-- Redux Toolkit
-- PostgreSQL
-- AWS EC2
-- WebSockets
+#### 👤 Member Module
+- Secure Registration & Login
+- JWT Authentication
+- Browse Membership Plans
+- Online Membership Purchase
+- Membership Renewal & Upgrade
+- Personalized Workout Plans
+- Personalized Diet Plans
+- Attendance History
+- Progress Tracking
+- Profile Management
+
+#### 💬 Communication
+- Real-Time One-to-One Chat
+- Instant Notifications
+- WebSocket-Based Messaging
+- Live Message Updates
+
+#### 💳 Payments
+- Razorpay Payment Gateway Integration
+- Secure Online Subscription Payments
+- Payment History
+- Membership Renewal & Upgrade Payments
+
+#### 🔒 Security
+- JWT Authentication
+- Protected REST APIs
+- Role-Based Access Control
+- Secure Password Handling
+
+#### ☁️ Deployment
+- AWS EC2 Deployment
+- PostgreSQL Database
+- Nginx Reverse Proxy
+- Gunicorn & Daphne Server Configuration
+- Redis for Real-Time Features
+- Django Channels with WebSockets
+
+### 🛠️ Tech Stack
+
+**Backend:** Django, Django REST Framework, Django Channels, WebSockets
+
+**Frontend:** React.js, Redux Toolkit, Bootstrap
+
+**Database:** PostgreSQL
+
+**Deployment:** AWS EC2, Nginx, Gunicorn, Daphne, Redis
+
+**Authentication:** JWT
+
+**Payments:** Razorpay
 
 ---
 
-## 🛒 Ashion E-Commerce Platform
+## 🛒 Ashion – E-Commerce Platform
 
-A modern e-commerce platform built with Django.
+A full-featured e-commerce platform built with Django, offering a seamless online shopping experience with secure authentication, digital payments, and efficient order management. The application includes both customer and admin modules to simplify shopping and store management.
 
-### Features
+### ✨ Key Features
 
-- Secure User Authentication
-- Product Management
+#### 👤 User Module
+- Secure User Registration & Login
+- User Profile Management
+- Password Reset & Email Verification
+
+#### 🛍️ Shopping Experience
+- Product Catalog
+- Category & Brand Filtering
+- Product Search
+- Product Details & Image Gallery
+- Wishlist
 - Shopping Cart
+- Coupon & Discount Support
+
+#### 💳 Checkout & Payments
+- Secure Checkout Process
+- PayPal Payment Gateway Integration
 - Wallet System
-- Order Management
-- PayPal Payment Integration
+- Order Summary
+- Order Confirmation
+- Invoice Generation
+
+#### 📦 Order Management
+- Place Orders
+- Order History
+- Order Tracking
+- Cancel Orders
+- Return Request Management
+- Refund Processing
+
+#### 🏪 Admin Module
 - Admin Dashboard
+- Product Management (CRUD)
+- Category Management
+- Inventory & Stock Management
+- Order Management
+- Customer Management
+- Sales Analytics & Reports
+
+#### 🔒 Security
+- Role-Based Access Control
+- Secure Payment Processing
+- Protected REST APIs
+
+#### ☁️ Deployment
+- AWS EC2 Deployment
+- PostgreSQL Database
 - Responsive Design
+- Optimized Database Queries
 
-### Tech Stack
+### 🛠️ Tech Stack
 
+**Backend**
 - Django
+- Django REST Framework (DRF)
+
+**Frontend**
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+
+**Database**
 - PostgreSQL
-- AWS EC2
+
+**Payment Gateway**
 - PayPal
+
+**Deployment**
+- AWS EC2
+
+**Tools**
+- Git
+- GitHub
+- Postman
 
 ---
 
@@ -129,6 +264,7 @@ A modern e-commerce platform built with Django.
 
 🎓 **Python Full Stack Development**
 
+Brototype (2024 - 2025)
 Avodha (2025 – 2026)
 
 🎓 **BVoc Instrumentation**
