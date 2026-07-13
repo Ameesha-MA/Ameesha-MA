@@ -287,7 +287,7 @@ MES College Marampally, MG University (2019 – 2022)
 
 💼 **LinkedIn:** https://linkedin.com/in/ameesha-m-a-734b0b247
 
-🌐 **Portfolio:** https://YOUR_PORTFOLIO_URL
+🌐 **Portfolio:** https://portfolioo-zeta-rust-70.vercel.app/
 
 💻 **GitHub:** https://github.com/Ameesha-MA/Ameesha-MA.git
 
